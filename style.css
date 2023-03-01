@@ -1,0 +1,61 @@
+body{font-family: Raleway;
+}
+.principal{width: 80%;
+margin-left: 10%;
+min-height: 500px;
+background-color: beige;
+}
+.menu{width: 100%;
+background-color: black;
+height: 10%;}
+.menu ul {margin:0px;padding: 5px;list-style: none;}
+.menu ul li {float:left;
+text-align: center;
+color:#fff;
+font-size: 20px;
+font-weight: bold;
+width: 30%;
+padding-top: 10px;
+}
+.menu ul li a {color: #fff;text-decoration: none;}
+.menu ul li a:hover {color: aqua;
+    cursor: pointer;
+}
+.fila{}
+.titulo{
+    background-color: lightgrey;
+    text-align: center;margin-top: 5px;
+    font-weight: bolder;
+}
+h1{
+    margin: 0px;
+}
+.columna30{
+    margin: 0;
+    width: 30%;
+    float:left;
+
+}
+.claro{
+    background-color: #fff;
+
+}
+.claro li{
+    color: black;
+    font-weight: bolder;
+}
+.foto{
+    width: 50%;
+    height: 70%;
+    margin-left: 23%;
+    margin-top: 5px;
+    border: lightgrey 5px solid;
+    border-radius: 15% 10%;
+}
+.datos{
+    text-align: center;
+    background-color: lightgrey;
+}
+.datos p{margin-top: 5px;
+font-weight: bolder;}
+.negrita{font-weight: bold;}
